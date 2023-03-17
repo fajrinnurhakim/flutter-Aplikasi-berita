@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013658757225",
+    "project_id": "ittp-news-bd997",
+    "storage_bucket": "ittp-news-bd997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013658757225:android:f61d2bc9a532afef071af8",
+        "android_client_info": {
+          "package_name": "com.example.ittpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013658757225-gredc5j3vmq6ekg5lafatbl9fkpktlq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMX7_y78QLdpDRprPcB_MSLuH5vdaL3ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013658757225-gredc5j3vmq6ekg5lafatbl9fkpktlq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
